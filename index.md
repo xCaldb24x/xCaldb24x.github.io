@@ -1,7 +1,7 @@
 ## BIENVENIDO A MI SITIO 
-Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos me gusta escuchar música, me gusta escuchar de  salir con mi novia, amigos, ir a jugar fútbol. M
+Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar música, lo que más escucho es el rap-hip hop, el reguetton y la banda. Tambien me gusta salir con mi novia, amigos, ir a jugar fútbol. Estudio en el Cetis 32, quisiera estudiar Ingenieria en sistemas de la computación.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+INSTAGRAM PERSONAL [_xcaldb24x_](https://instagram.com/._xcaldb24x_.?utm_medium=copy_link).
 
 ### Markdown
 
