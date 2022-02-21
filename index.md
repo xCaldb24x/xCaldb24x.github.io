@@ -11,18 +11,13 @@ Le voy al equipo de fútbol Cruz Azul.
 
 
 
+## GUSTOS
+La música que más escucho es la de:
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- MC Davo
+- C kan
+- Maluma 
+- Wisin y Yandel
 
 1. Numbered
 2. List
