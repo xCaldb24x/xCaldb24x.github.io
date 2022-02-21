@@ -3,9 +3,16 @@ Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar 
 
 INSTAGRAM PERSONAL: [ _xcaldb24x_ ](www.instagram.com/@_xcaldb24x_). 
 
-### Markdown
+### DATOS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tengo 2 mascotas, una perrita que se llama Blacky y un perrito que se llama Starky, me gusta estar con ellos, sacarlos a pasear.
+Me gusta hacer ejercicio, aunque me de flojera.
+Le voy al equipo de fútbol Cruz Azul.
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
