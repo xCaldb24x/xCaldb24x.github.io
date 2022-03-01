@@ -1,17 +1,21 @@
 ## BIENVENIDO A MI SITIO 
 Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar música, lo que más escucho es el rap-hip hop, el reguetton y la banda. Tambien me gusta salir con mi novia, amigos, ir a jugar fútbol. Estudio en el Cetis 32, quisiera estudiar Ingenieria en sistemas de la computación.
 
-INSTAGRAM PERSONAL: [ _xcaldb24x_ ](https://www.instagram.com/_xcaldb24x_/). 
+INSTAGRAM PERSONAL:   [ _xcaldb24x_ ](https://www.instagram.com/_xcaldb24x_/). 
 
-FACEBOOK:
+FACEBOOK:  [Carlos Delgado Benítez](https://www.facebook.com/carlos.delgadobenitez.9)
 
-TWITTER:
+TWITTER:   [@Carlos_DB24](https://twitter.com/Carlos_DB24)
 
-### DATOS
+
+
+
+## DATOS RELEVANTES
 
 Tengo 2 mascotas, una perrita que se llama Blacky y un perrito que se llama Starky, me gusta estar con ellos, sacarlos a pasear.
 Me gusta hacer ejercicio, aunque me de flojera.
 Le voy al equipo de fútbol Cruz Azul.
+Mi jugador preferido de fútbol es Cristiano Ronaldo,
 
 
 
@@ -24,7 +28,7 @@ La música que más escucho es la de:
 - Wisin y Yandel
 
 Como tal no tengo una comida favorita, pero me gusta mucho la pizza, las enchiladas verdes y las alitas.
-
+Mis peliculas favoritas es la saga de Volver al Futuro.
 
 
 ## HABILIDADES SOCIALES Y TECNOLÓGICAS
