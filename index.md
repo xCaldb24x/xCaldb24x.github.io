@@ -1,7 +1,11 @@
 ## BIENVENIDO A MI SITIO 
 Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar música, lo que más escucho es el rap-hip hop, el reguetton y la banda. Tambien me gusta salir con mi novia, amigos, ir a jugar fútbol. Estudio en el Cetis 32, quisiera estudiar Ingenieria en sistemas de la computación.
 
-INSTAGRAM PERSONAL: [ _xcaldb24x_ ](www.instagram.com/@_xcaldb24x_). 
+INSTAGRAM PERSONAL: [ _xcaldb24x_ ](https://www.instagram.com/_xcaldb24x_/). 
+
+FACEBOOK:
+
+TWITTER:
 
 ### DATOS
 
@@ -19,20 +23,31 @@ La música que más escucho es la de:
 - Maluma 
 - Wisin y Yandel
 
-1. Numbered
-2. List
+Como tal no tengo una comida favorita, pero me gusta mucho la pizza, las enchiladas verdes y las alitas.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## HABILIDADES SOCIALES Y TECNOLÓGICAS
 
-### Jekyll Themes
+En lo social, soy un poco serio, me gusta mucho hacer reír a mis amig@s y a las personas que me rodean, soy muy hiperactivo, y a veces me gusta molestar a la gente.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xCaldb24x/xCaldb24x.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+En mis habilidades tecnológicas está que me gusta mucho todo lo de la computación, por lo mismo, siempre que debo hacer algo relacionado, me enfoco mucho, y me propongo hacer que me salga muy bien.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## EXPERIENCIA LABORAL.
+
+En sí solo he trabajado con mi papá, cuando voy con él a su trabajo,
+
+
+
+### SOPORTE O CONTACTO
+
+CORREO: carlosmaquina2402@gmail.com
+
+NÚMERO TELEFÓNICO: 55-83-95-57-16
+
+
+
+
+
