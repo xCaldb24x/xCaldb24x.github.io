@@ -2,7 +2,7 @@
 ## BIENVENIDO A MI SITIO 
 Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar música, lo que más escucho es el rap-hip hop, el reguetton y la banda. Tambien me gusta salir con mi novia, amigos, ir a jugar fútbol. Estudio en el Cetis 32, quisiera estudiar Ingenieria en sistemas de la computación.
 
-INSTAGRAM PERSONAL:   [ _xcaldb24x_ ](https://www.instagram.com/_xcaldb24x_/). 
+INSTAGRAM PERSONAL:   [ _@xcaldb24x_ ](https://www.instagram.com/_xcaldb24x_/). 
 
 FACEBOOK:  [Carlos Delgado Benítez](https://www.facebook.com/carlos.delgadobenitez.9)
 
