@@ -1,5 +1,3 @@
-[DATOS RELEVANTES](./datos.md)
-
 ## BIENVENIDO A MI SITIO 
 Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar música, lo que más escucho es el rap-hip hop, el reguetton y la banda. Tambien me gusta salir con mi novia, amigos, ir a jugar fútbol. Estudio en el Cetis 32, quisiera estudiar Ingenieria en sistemas de la computación.
 
@@ -13,7 +11,7 @@ TWITTER:   [@Carlos_DB24](https://twitter.com/Carlos_DB24)
 
 
 
-
+[DATOS RELEVANTES](./datos.md)
 ## DATOS RELEVANTES
 
 Tengo 2 mascotas, una perrita que se llama Blacky y un perrito que se llama Starky, me gusta estar con ellos, sacarlos a pasear.
