@@ -34,6 +34,7 @@ Como tal no tengo una comida favorita, pero me gusta mucho la pizza, las enchila
 Mis peliculas favoritas es la saga de Volver al Futuro.
 
 
+[HABILIDADES SOCIALES Y TECNOLÓGICAS](./habilidades.md)
 ## HABILIDADES SOCIALES Y TECNOLÓGICAS
 
 En lo social, soy un poco serio, me gusta mucho hacer reír a mis amig@s y a las personas que me rodean, soy muy hiperactivo, y a veces me gusta molestar a la gente.
