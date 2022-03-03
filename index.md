@@ -21,6 +21,7 @@ Mi jugador preferido de fútbol es Cristiano Ronaldo,
 
 
 
+[GUSTOS](./gustos.md)
 ## GUSTOS
 La música que más escucho es la de:
 
