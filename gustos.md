@@ -1,3 +1,5 @@
+[Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | 
+
 ## GUSTOS
 
 La música que más escucho es la de:
