@@ -1,4 +1,4 @@
-[Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | [Experiencia Laboral](./experiencia.md)
+[Bienvenida](./index.md)| [Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | [Experiencia Laboral](./experiencia.md)
 ## BIENVENIDO A MI SITIO 
 Mi nombre es Carlos Alberto Delgado Benítez. En mis pasatiempos suelo escuchar música, lo que más escucho es el rap-hip hop, el reguetton y la banda. Tambien me gusta salir con mi novia, amigos, ir a jugar fútbol. Estudio en el Cetis 32, quisiera estudiar Ingenieria en sistemas de la computación.
 
