@@ -1,4 +1,4 @@
-[Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | 
+[Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | [Experiencia Laboral](./experiencia.md)
 
 ## HABILIDADES SOCIALES Y TECNOLÓGICAS
 
