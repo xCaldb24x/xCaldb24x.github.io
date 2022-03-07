@@ -1,4 +1,4 @@
-[Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | [Experiencia Laboral](./experiencia.md)
+[Bienvenida](./index.md)| [Datos Relevantes](./datos.md) | [Gustos](./gustos.md) | [Habilidades tecnológicas y sociales](./habilidades.md) | [Experiencia Laboral](./experiencia.md)
 
 ## GUSTOS
 
